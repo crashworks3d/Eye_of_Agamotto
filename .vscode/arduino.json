@@ -1,0 +1,5 @@
+{
+    "board": "digistump:avr:digispark-tiny",
+    "port": "/dev/tty.usbserial-1414440",
+    "sketch": "Eye_Of_Agamotto.ino"
+}
