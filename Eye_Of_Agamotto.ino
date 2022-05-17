@@ -64,8 +64,8 @@ https://www.youtube.com/watch?v=XaKzuAUb2fQ
 #define PIXELS_PIN                               1 // Signal pin controlling the pixels
 #define BUTTON_PIN                               2 // Pin for switch
 
-#define OPEN_POS                               150 // Degrees (0-180) of the servo in the open position
-#define CLOSE_POS                               10 // Degrees (0-180) of the servo in the closed position
+#define OPEN_POS                               180 // Degrees (0-180) of the servo in the open position
+#define CLOSE_POS                                1 // Degrees (0-180) of the servo in the closed position
 
 // Declare values for servo control
 #define SERVO_CLOSE_SPEED                     3000 // set the speed of the servo close function (0 = Max Speed  / 10000 = Slowest Speed) 
@@ -136,6 +136,7 @@ void simDelayMicros(unsigned long period){
 void initPrimaryButton(){
     primaryButton.attachClick(handlePrimaryButtonSingleTap);
     primaryButton.attachDoubleClick(handlePrimaryButtonDoubleTap);
+    primaryButton.attachLongPressStart(handlePrimaryButtonDoubleTap);
 }
 
 /**
@@ -318,6 +319,14 @@ void handlePrimaryButtonDoubleTap(){
     }
 
     pixelsOn(); // Turn on the pixels
+}
+
+/**
+ * @brief Handles what to do when the button is pressed for a long time
+ * 
+ */
+void handlePrimaryButtonLongPress(){
+
 }
 
 /**
