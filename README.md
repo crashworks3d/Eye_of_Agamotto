@@ -2,7 +2,7 @@
 
 ![Dr. Strange Eye of Agamotto](images/main_eom.jpeg)
 
-The purpose of this project is to automate the features of the Eye of Agamotto. This project was created with the purpose of enabling fans like you to be able to more easily make your own automated prop. We encourage you to learn from this as well as provide feedback for us to improve upon it.
+The purpose of this project is to automate the features of the Eye of Agamotto. This project was created with the purpose of enabling fans like you to be able to more easily make your own automated prop. We encourage you to learn from this as well as provide feedback for us to improve upon it.  Hat tip to **[MSquared](https://www.instagram.com/ironmikecosplay/)** for the initial work on this prop!
 
 ## Follow Me
 
