@@ -33,7 +33,7 @@ You can download the 3D printable "Mechanized Eye of Agamotto" from Thingiverse:
 
 **_A.L.I.S.H.A. Mini_ - Arduino ATTiny85 Led & Integrated Servo Actuator for 3D Eye of Agamotto**
 
-[![alt text](images/ebay.png)](https://www.ebay.com/itm/403574453004)  [A.L.I.S.H.A. Mini](https://www.ebay.com/itm/403574453004)
+[![alt text](images/ebay.png)](https://www.ebay.com/str/crashworks3d)  [A.L.I.S.H.A. Mini](https://www.ebay.com/str/crashworks3d)
 
 ![A.L.I.S.H.A. Mini v2](images/AM-2_01.png)
 
