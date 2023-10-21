@@ -8,8 +8,8 @@ The purpose of this project is to automate the features of the Eye of Agamotto. 
 
 [![alt text][6.1]][6]  [![alt text][1.1]][1]  [![alt text][2.1]][2]  [![alt text][3.1]][3]   [![alt text][4.1]][4]    [![alt text][5.1]][5]
 
-[1]: https://www.instagram.com/crash_works_3d/
-[2]: https://www.youtube.com/channel/UCc6sTimx9tm5H4AzqxZHS1A
+[1]: https://www.instagram.com/crashworks3d/
+[2]: https://www.youtube.com/@crashworks3d?view_as=subscriber&sub_confirmation=1
 [3]: https://github.com/
 [4]: https://www.thingiverse.com/crashworks3d/designs
 [5]: https://www.facebook.com/groups/cosplayspecialeffectsprops
